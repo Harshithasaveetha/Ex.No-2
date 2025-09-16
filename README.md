@@ -93,7 +93,7 @@ int main()
 }
 ```
 # OUTPUT:
-![377374996-ccfee339-5608-4a1c-9728-f35454dc432a](https://github.com/user-attachments/assets/29cd6d97-a0ba-4cee-b0a7-88ab9451c948)
+<img width="593" height="377" alt="Screenshot 2025-09-16 144108" src="https://github.com/user-attachments/assets/10c79097-0bdf-48d7-ad3f-b241e62b6d6e" />
 
 
 
